@@ -1,6 +1,6 @@
 # Pyber Ride Sharing Analysis
 ## Overview
-In this project, we were tasked with examining and interpriting Pyber ride share data using Python to better understand the relationship between fare metrics and types of cities where this technology is available. By creating visuals using Python code in Jupyter Lab we were able to take the large amount of numbers present in this data and translate it into something more digestable and meaningful. With this better understanding of the data, we can determine where our underserved neighborhoods are and work to provide better access in those areas.
+In this project, we were tasked with examining and interpreting Pyber ride share data using Python to better understand the relationship between fare metrics and types of cities where this technology is available. By creating visuals using Python code in Jupyter Lab we were able to take the presented data and translate it into something more digestible and meaningful. With this better understanding of the data, we can determine where our underserved neighborhoods are and work to provide better access in those areas.
  
 
 ## Results
@@ -19,4 +19,4 @@ When reviewing the chart above, these are some of the conclusions we can come to
 We can use this chart to visualize the total fare amounts over time based on city type. 
 
 ## Conclusion
-While the highest fare amounts can be seen coming from Urban cities, the rural cities with the lowest fare amounts can be viewed as the cities most in need of these services based on the ride to driver ratio. Since the number of rides to total drivers in suburban and (most drastically) rural areas, we can predict that high cost and lack of available drivers may cause a loss of revenue. In order to capitalize on the demand in those areas, I would reccommend for a push to hire drivers in the Rural and Suburban neighborhoods.
+While the highest fare amounts can be seen coming from urban cities, the rural cities with the lowest fare amounts can be viewed as the cities with the greatest opportunity for growth in business. Since the number of total drivers in suburban and (most drastically) rural areas cannot meet the demand of rides, we can predict that high cost and lack of available drivers may cause a loss of revenue. To capitalize on the demand in those areas, I would recommend for a push to hire drivers in the rural and suburban neighborhoods.
